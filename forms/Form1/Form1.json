@@ -9,42 +9,14 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "membership",
-        "Elements",
-        "inptUsername.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "membership",
-        "Elements",
-        "btnAdd.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "membership",
-        "Elements",
-        "lblMessage.json"
-      ]
-    }
-  ],
+  "children": [],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "Form1",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,8 +29,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
