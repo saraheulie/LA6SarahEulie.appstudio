@@ -35,8 +35,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "calculator",
+            "calculator.json"
           ]
         }
       ],
@@ -61,7 +61,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "membership",
+      "firstform": "calculator",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
